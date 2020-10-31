@@ -1,0 +1,117 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Professional Formal Letter
+% LaTeX Template
+% Version 2.0 (12/2/17)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Authors:
+% Brian Moses
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt, letterpaper]{letter} % Set the font size (10pt, 11pt and 12pt) and paper size (letterpaper, a4paper, etc)
+
+\input{structure.tex} % Include the file that specifies the document structure
+
+%\longindentation=0pt % Un-commenting this line will push the closing "Sincerely," and date to the left of the page
+
+%----------------------------------------------------------------------------------------
+%	YOUR INFORMATION
+%----------------------------------------------------------------------------------------
+
+\Who{Richard Cuminale} % Your name
+
+\Title{} % Your title, leave blank for no title
+
+\authordetails{
+	English Department\\ % Your department/institution
+	500 Boston Post Rd.\\ % Your address
+	West Haven, CT 06516\\ % Your city, zip code, country, etc
+	Richard.Cuminale@nhboe.net\\ % Your email address
+	Cell: (703) 785-1430\\ % Your phone number
+	URL: esumsnh.net % Your URL
+}
+
+%----------------------------------------------------------------------------------------
+%	HEADER CONTENTS
+%----------------------------------------------------------------------------------------
+
+\logo{logo.jpg} % Logo filename, your logo should have square dimensions (i.e. roughly the same width and height), if it does not, you will need to adjust spacing within the HEADER STRUCTURE block in structure.tex (read the comments carefully!)
+
+\headerlineone{ENGINEERING \& SCIENCE} % Top header line, leave blank if you only want the bottom line
+
+\headerlinetwo{UNIVERSITY MAGNET SCHOOL} % Bottom header line
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TO ADDRESS
+%----------------------------------------------------------------------------------------
+
+\begin{letter}{
+%	Include the following if addressing the letter to a specific university
+	\today\\	
+%	Prof. Jones\\
+%	Mathematics Search Committee\\
+%	Department of Mathematics\\
+%	University of California\\
+%	Berkeley, California 12345
+}
+
+%----------------------------------------------------------------------------------------
+%	LETTER CONTENT
+%----------------------------------------------------------------------------------------
+
+\opening{To whom it may concern:}
+
+I would like to recommend Anthony Dibiago to your undergraduate academic program.
+I have known Anthony as his English teacher for a long time now, having him in English 1 Lab as a freshman, and in regular English both during Junior and now Senior year.
+I can say with confidence that Anthony is an upright, responsible student who I believe will grow to be a successful young man.
+
+As I reflect on his progress, I realize Anthony really is an interesting student.
+He is one who deeply cares about his academic progress, but it wasn't always that way.
+I remember having him as a freshman, and in English 1 Lab (a support for the freshman English 1 class), he was, like many students in 9th grade, someone I had to work with to take school seriously.
+He changed a lot from the beginning of the year to the end, but it was most striking to have him again as a Junior.
+Anthony was like a different person: serious, hard-working, and taking ownership of everything that was asked of him.
+I think this is important because it shows that Anthony has learned something.
+He's not someone who easily coasted through his studies, and his hard work now tells me that he understand and appreciates the value of his education.
+
+Anthony is also interesting in that he is intellectually honest, and displays strong metacognitive abilities.
+I see this as a clear outcome of struggling to succeed: he has confronted his weaknesses, he knows how to talk about them and ask for help, and because of this he creates pathways for himself to succeed.
+He's not afraid to say he's having difficulty with a writing assignment, or that he doesn't understand a problem, or even that he just can't get into the book we're reading.
+As a teacher, I appreciate this because he's not complaining, but instead authentically looking to have a better experience in the course.
+He's the kind of student a teacher likes to teach.
+
+I believe if you accept Anthony into your undergraduate program, you'll find a student motivated, capable, and ready to learn.
+I also believe he'll set a good example of responsibility and academic integrity to the community around him.
+There aren't many students I've seen with such a clear trajectory of personal growth, and I have confidence this process will continue for Anthony.
+
+\closing{Sincerely,}
+
+%----------------------------------------------------------------------------------------
+%	OPTIONAL FOOTNOTE
+%----------------------------------------------------------------------------------------
+
+% Uncomment the 4 lines below to print a footnote with custom text
+%\def\thefootnote{}
+%\def\footnoterule{\hrule}
+%\footnotetext{\hspace*{\fill}{\footnotesize\em Footnote text}}
+%\def\thefootnote{\arabic{footnote}}
+
+%----------------------------------------------------------------------------------------
+
+\end{letter}
+
+\end{document}
