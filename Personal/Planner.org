@@ -1,0 +1,198 @@
+#+TITLE:     Personal and Professional Planner
+#+DATE       December 2020 to Present
+#+SEQ_TODO:  TODO(t) NEXT(x) NOW(n)  WAITING(w) | DONE(d) CANCELLED(c)
+#+STARTUP:   overview
+ 
+* Goals
+** Attain well-being
+** Become physically fit
+*** TODO Do five pull-ups in a row
+** Prepare for climate change's contingencies
+   - This means training, not just purchasing. Learn skills and practice them.
+   - Go backpacking with the kids. Hike all the time.
+** Create a strong professional reputation
+** Earn a Master's Degree
+
+* Calendar
+** 2020
+*** 2020 - December
+    01 -
+    02 -
+    03 - 
+    04 -
+    05 -
+    06 -
+    07 - 14:00 Staff Meeting
+       - 16:00 Dentist Appointment
+    08 - Koppel: Bring stuffed animal to school
+       - 09:15 SSST Meeting Tariq Singleton
+    09 - 12:00 English Department Meeting
+    10 - Koppel: Fancy Day
+       - 11:00 Economist Year in review webinar (see email)
+       - 16:15 Therapy
+       - 20:00 UNICEF USA Webinar (see email)
+       - Send gifts to Fellin and Koppel
+    11 - Koppel: Pajama day (send with money for CT Children's Medical Center)
+    12 -
+    13 -
+    14 -
+    15 -
+    16 -
+    17 -
+    18 - MES Report Cards come home
+    19 -
+    20 -
+    21 -
+    22 -
+    23 -
+    24 - Christmas Eve
+    25 - Christmas Day
+    26 -
+    27 -
+    28 -
+    29 -
+    30 -
+    31 - New Year's Eve
+** Template
+    01 -
+    02 -
+    03 - 
+    04 -
+    05 -
+    06 -
+    07 -
+    08 -
+    09 -
+    10 -
+    11 -
+    12 -
+    13 -
+    14 -
+    15 -
+    16 -
+    17 -
+    18 -
+    19 -
+    20 -
+    21 -
+    22 -
+    23 -
+    24 -
+    25 -
+    26 -
+    27 -
+    28 -
+    29 -
+    30 -
+    31 - 
+   
+    
+* Inbox
+** TODO Shopping List: Hardware
+   - Dog tennis balls
+   - Wood glue
+** TODO Do the activities at home with Jack for two weeks
+** TODO Send gift for Mr. Koppel
+   DEADLINE: <1970-12-10 Thu>
+** TODO Write Jeffrey's letter of rec
+** TODO Write Franklin's letter of rec (amir's will be the same)
+** TODO Write Tyman's letter of rec
+   DEADLINE: <2020-12-15 Tue>
+** TODO Write Matthew's letter of rec
+** TODO Email Shaniqua McCrea about aesop
+** TODO Fill in SRBI intervention form for Ben Hudson
+** TODO Invite Ben to office hours
+** TODO Complete SRBI for Tatyana
+   DEADLINE: <2020-12-08 Tue>
+** TODO Complete Tariq's SBRI form
+   DEADLINE: <2020-12-07 Mon>
+** TODO Write back to Jim about his kids' progress
+** TODO Get rid of the F's in powerschool
+** 
+** TODO Figure out grades in Lab
+
+
+* Daily Tasks
+** TODO Stand To
+*** TODO Wake up at 04:30
+   - "All hands shall be awake, alert and ready for action before dawn. Dawn's when the French and Indians like to attack." --Rogers' Rangers
+*** TODO Get dressed, brush teeth
+*** TODO 
+** TODO Sitting Practice: 7:00 - 7:30 a.m.
+** TODO Practice Multiplication with Andrew
+*** TODO Print out the practice sheet
+*** Last time: 42 questions in 15 minutes
+** TODO Update Repositories
+** TODO Stretch for 15 - 30 minutes
+** TODO Don't drink alcohol; don't eat sugar
+   - It does nothing to help me get stronger, faster, smarter, healthier, or better
+   - It plants the seeds of alcoholism in my family
+** TODO Plan for tomorrow
+*** TODO Plan my workout
+*** TODO Set up workout clothes
+*** TODO Make my list of things to accomplish tomorrow
+*** TODO Set alerm for 04:30
+*** TODO Lights out at 21:30
+
+* 2020-12-04 Friday
+** DONE Settle the Incomplete grades
+   CLOSED: [2020-12-04 Fri 10:00]
+** DONE Create lessons for today
+   CLOSED: [2020-12-04 Fri 10:49]
+** DONE Email Harmony regarding joining the Sangha
+   CLOSED: [2020-12-04 Fri 11:22]
+** DONE Clean out my Gmail inbox
+   CLOSED: [2020-12-04 Fri 15:23]
+** DONE Clean out my Outlook inbox
+   CLOSED: [2020-12-04 Fri 16:57]
+** DONE Activities at home with Jack
+   CLOSED: [2020-12-07 Mon 06:13]
+* 2020-12-07 Monday
+** Calendar
+   - 14:00 Staff Meeting
+   - 16:00 Dentist Appointment
+** *Notes*
+   - What am I going to do about failing kids?
+   - Karla needs an F for each class if she hasn't turned in the syllabus scavenger hunt yet
+** DONE Order Andrew's christmas present
+   CLOSED: [2020-12-07 Mon 09:29]
+** DONE Plan today's tasks
+   CLOSED: [2020-12-08 Tue 08:48]
+** DONE Create a lesson for English 3
+   CLOSED: [2020-12-08 Tue 08:48]
+** DONE Prepare for English 1 Lab
+   CLOSED: [2020-12-07 Mon 09:12]
+** TODO Send a stuffed animal with Jack to school tomorrow
+* 2020-12-08 Tuesday
+** Calendar
+    - Koppel: Bring stuffed animal to school
+    - 09:15 SSST Meeting Tariq Singleton
+** Notes
+*** Tariq Singleton Meeting:
+      - Feels down about himself. Low self-esteem
+      - Thrives on positive feedback
+      - We're going to get him tested and move him to the top of the list
+      - Medria thinks we failed him
+** TODO Revise plans for English 3
+** TODO Review posted work for English 3
+** TODO Plan English 4 class today
+** TODO Post this week's English 4 work
+** TODO Write all rec letters today
+** TODO Create reading schedule for The Jungle
+** TODO Clean the fish tank
+*** TODO Scrape the glass
+*** TODO Skim the top detrius
+*** TODO Clean the filter
+*** TODO Vacuum the sediment
+*** TODO Replace the water
+*** TODO Test the water, and record results
+*** TODO Trim the plants
+* 2020-12-11 Friday
+** Calendar
+** Notes
+** NOW Prepare next class's lesson
+** NEXT Update my planner
+** TODO Exercise
+** TODO Start an exercise sheet
+** TODO Miya's assignment: electronic version of saavas
+* 2020-12-13 Sunday
