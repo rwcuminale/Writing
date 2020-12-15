@@ -85,43 +85,47 @@
     29 -
     30 -
     31 - 
-   
+
     
 * Inbox
 ** TODO Shopping List: Hardware
-   - Dog tennis balls
    - Wood glue
-** TODO Do the activities at home with Jack for two weeks
 ** TODO Send gift for Mr. Koppel
    DEADLINE: <1970-12-10 Thu>
-** TODO Write Jeffrey's letter of rec
-** TODO Write Franklin's letter of rec (amir's will be the same)
+** DONE Write Franklin's letter of rec (amir's will be the same)
+   CLOSED: [2020-12-13 Sun 21:09]
 ** TODO Write Tyman's letter of rec
    DEADLINE: <2020-12-15 Tue>
-** TODO Write Matthew's letter of rec
-** TODO Email Shaniqua McCrea about aesop
-** TODO Fill in SRBI intervention form for Ben Hudson
+** DONE Write Matthew's letter of rec
+   CLOSED: [2020-12-13 Sun 21:09]
+** CANCELLED Email Shaniqua McCrea about aesop
+   CLOSED: [2020-12-13 Sun 21:09]
+** CANCELLED Fill in SRBI intervention form for Ben Hudson
+   CLOSED: [2020-12-13 Sun 21:09]
 ** TODO Invite Ben to office hours
-** TODO Complete SRBI for Tatyana
-   DEADLINE: <2020-12-08 Tue>
-** TODO Complete Tariq's SBRI form
-   DEADLINE: <2020-12-07 Mon>
+** CANCELLED Complete SRBI for Tatyana
+   CLOSED: [2020-12-13 Sun 21:13] DEADLINE: <2020-12-08 Tue>
+** DONE Complete Tariq's SBRI form
+   CLOSED: [2020-12-13 Sun 21:13] DEADLINE: <2020-12-07 Mon>
 ** TODO Write back to Jim about his kids' progress
 ** TODO Get rid of the F's in powerschool
-** 
 ** TODO Figure out grades in Lab
-
 
 * Daily Tasks
 ** TODO Stand To
-*** TODO Wake up at 04:30
+*** DONE Wake up at 04:30
+    CLOSED: [2020-12-14 Mon 08:09]
    - "All hands shall be awake, alert and ready for action before dawn. Dawn's when the French and Indians like to attack." --Rogers' Rangers
-*** TODO Get dressed, brush teeth
-*** TODO 
-** TODO Sitting Practice: 7:00 - 7:30 a.m.
+*** DONE Get dressed, brush teeth
+    CLOSED: [2020-12-14 Mon 08:10]
+*** DONE Work out
+    CLOSED: [2020-12-14 Mon 08:10]
+** DONE Sitting Practice: 7:00 - 7:30 a.m.
+   CLOSED: [2020-12-14 Mon 08:10]
 ** TODO Practice Multiplication with Andrew
 *** TODO Print out the practice sheet
 *** Last time: 42 questions in 15 minutes
+** TODO Check the Class Check-ins
 ** TODO Update Repositories
 ** TODO Stretch for 15 - 30 minutes
 ** TODO Don't drink alcohol; don't eat sugar
@@ -131,7 +135,7 @@
 *** TODO Plan my workout
 *** TODO Set up workout clothes
 *** TODO Make my list of things to accomplish tomorrow
-*** TODO Set alerm for 04:30
+*** TODO Set alarm for 04:30
 *** TODO Lights out at 21:30
 
 * 2020-12-04 Friday
@@ -196,3 +200,22 @@
 ** TODO Start an exercise sheet
 ** TODO Miya's assignment: electronic version of saavas
 * 2020-12-13 Sunday
+* 2020-12-14 Monday
+** Notes
+** WAITING [#A] Get Tatyana's mother's contact info
+** NOW [#A] Set up English 3 Classroom
+** NEXT [#A] Set up English 4 Classroom
+** TODO Get materials from Saavas to Miya
+** TODO Enter narratives for English 1 Lab students
+** TODO Create plan to get entirely caught up on grades in two weeks
+** TODO Grade the English 4 papers 1
+*** TODO Create the seven feedback videos
+*** TODO Upload the videos to drive
+*** TODO Comment the links to videos
+*** TODO Enter the grades
+** TODO Clear Outlook emails
+** TODO Clear nhps.net emails
+** TODO Clear Personal emails
+** TODO Make my Christmas gift list
+** TODO Write Jeffrey's letter of rec
+** TODO Clean the gutters
