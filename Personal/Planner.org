@@ -112,31 +112,30 @@
 ** TODO Figure out grades in Lab
 
 * Daily Tasks
-** TODO Stand To
-*** DONE Wake up at 04:30
-    CLOSED: [2020-12-14 Mon 08:09]
+** DONE Stand To
+   CLOSED: [2020-12-14 Mon 21:27]
+   - Wake up at 04:30
    - "All hands shall be awake, alert and ready for action before dawn. Dawn's when the French and Indians like to attack." --Rogers' Rangers
-*** DONE Get dressed, brush teeth
-    CLOSED: [2020-12-14 Mon 08:10]
-*** DONE Work out
-    CLOSED: [2020-12-14 Mon 08:10]
+   - Get dressed, brush teeth
+   - Work out
 ** DONE Sitting Practice: 7:00 - 7:30 a.m.
-   CLOSED: [2020-12-14 Mon 08:10]
+   CLOSED: [2020-12-14 Mon 21:27]
 ** TODO Practice Multiplication with Andrew
 *** TODO Print out the practice sheet
 *** Last time: 42 questions in 15 minutes
-** TODO Check the Class Check-ins
+** DONE Check the Class Check-ins
+   CLOSED: [2020-12-14 Mon 21:28]
 ** TODO Update Repositories
 ** TODO Stretch for 15 - 30 minutes
 ** TODO Don't drink alcohol; don't eat sugar
    - It does nothing to help me get stronger, faster, smarter, healthier, or better
    - It plants the seeds of alcoholism in my family
 ** TODO Plan for tomorrow
-*** TODO Plan my workout
-*** TODO Set up workout clothes
-*** TODO Make my list of things to accomplish tomorrow
-*** TODO Set alarm for 04:30
-*** TODO Lights out at 21:30
+   - Plan my workout
+   - Set up workout clothes
+   - Make my list of things to accomplish tomorrow
+   - Set alarm for 04:30
+   - Lights out at 21:30
 
 * 2020-12-04 Friday
 ** DONE Settle the Incomplete grades
@@ -203,19 +202,19 @@
 * 2020-12-14 Monday
 ** Notes
 ** WAITING [#A] Get Tatyana's mother's contact info
-** NOW [#A] Set up English 3 Classroom
+** DONE [#A] Set up English 3 Classroom
+   CLOSED: [2020-12-14 Mon 10:58]
+** DONE Get materials from Saavas to Miya
+   CLOSED: [2020-12-14 Mon 12:04]
+** DONE Enter narratives for English 1 Lab students
+   CLOSED: [2020-12-14 Mon 11:35]
+* 2020-12-15 Tuesday
 ** NEXT [#A] Set up English 4 Classroom
-** TODO Get materials from Saavas to Miya
-** TODO Enter narratives for English 1 Lab students
+** TODO Write Jeffrey's letter of rec + 1 more
 ** TODO Create plan to get entirely caught up on grades in two weeks
-** TODO Grade the English 4 papers 1
-*** TODO Create the seven feedback videos
-*** TODO Upload the videos to drive
-*** TODO Comment the links to videos
-*** TODO Enter the grades
+*** TODO Make grades match Google and powerschool
 ** TODO Clear Outlook emails
 ** TODO Clear nhps.net emails
 ** TODO Clear Personal emails
 ** TODO Make my Christmas gift list
-** TODO Write Jeffrey's letter of rec
 ** TODO Clean the gutters
