@@ -125,9 +125,11 @@
 *** Last time: 42 questions in 15 minutes
 ** DONE Check the Class Check-ins
    CLOSED: [2020-12-14 Mon 21:28]
-** TODO Update Repositories
+** DONE Update Repositories
+   CLOSED: [2020-12-14 Mon 21:30]
 ** TODO Stretch for 15 - 30 minutes
-** TODO Don't drink alcohol; don't eat sugar
+** DONE Don't drink alcohol; don't eat sugar
+   CLOSED: [2020-12-14 Mon 21:30]
    - It does nothing to help me get stronger, faster, smarter, healthier, or better
    - It plants the seeds of alcoholism in my family
 ** TODO Plan for tomorrow
@@ -209,11 +211,13 @@
 ** DONE Enter narratives for English 1 Lab students
    CLOSED: [2020-12-14 Mon 11:35]
 * 2020-12-15 Tuesday
-** NEXT [#A] Set up English 4 Classroom
-** TODO Write Jeffrey's letter of rec + 1 more
+** DONE [#A] Set up English 4 Classroom
+   CLOSED: [2020-12-15 Tue 11:39]
+** TODO Procure generator security
+** NOW Write Jeffrey's letter of rec + 1 more
 ** TODO Create plan to get entirely caught up on grades in two weeks
 *** TODO Make grades match Google and powerschool
-** TODO Clear Outlook emails
+** NEXT Clear Outlook emails
 ** TODO Clear nhps.net emails
 ** TODO Clear Personal emails
 ** TODO Make my Christmas gift list
